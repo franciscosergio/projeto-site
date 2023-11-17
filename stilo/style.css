@@ -10,10 +10,17 @@ body{
 main{
 	background-color: white;
 	width: 500px;
-	height: 350px;
 	margin: auto;
 	padding: 10px;
 	box-shadow: 3px 3px 3px 5px rgba(78, 74, 74, .4);
 	border-radius: 8px;
 }
 
+a{
+	text-decoration: none;
+	font-weight: bolder;
+}
+
+.artigo-1 img, .artigo-2 img{
+	float: right;
+}
